@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 379361c534ef3884487ee045a38ce7f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - cursor: {fileID: 2800000, guid: b9d1dc28d9f45874ba9afdf77f208be3, type: 3}
+  - dialogueCursor: {fileID: 2800000, guid: aae40825cd42c484ca638d990ca8bcc6, type: 3}
+  - mineCursor: {fileID: 2800000, guid: df914a58c820d454fbeddea2ff9307e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
